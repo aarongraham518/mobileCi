@@ -5,7 +5,7 @@ export default function Page() {
     <View style={styles.container}>
       <View style={styles.main}>
         <Text style={styles.title}>Hello World</Text>
-        <Text style={styles.subtitle}>This is the front of the app.</Text>
+        <Text style={styles.subtitle}>This is the front of the.</Text>
       </View>
     </View>
   );
